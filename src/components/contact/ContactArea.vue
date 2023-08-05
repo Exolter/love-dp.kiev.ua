@@ -83,7 +83,11 @@
 
         <div class="col-lg-7 col-md-12">
           <div class="contact-form">
-            <form id="contactForm" @submit.prevent="tBotMessage">
+            <form
+              id="contactForm"
+              ref="clearForm"
+              @submit.prevent="tBotMessage"
+            >
               <div class="row">
                 <div class="col-lg-6 col-md-6">
                   <div class="form-group">
@@ -198,7 +202,7 @@ export default {
   },
   methods: {
     tBotMessage: function () {
-      const tokenTelegram = "5718289727:AAEO6-79DLBuwWD5zuElglQwGe43j8B3v5g";
+      const tokenTelegram = "";
       const id_chat = "-575919706";
       const url_api = `https://api.telegram.org/bot${tokenTelegram}/sendMessage`;
       const fullMessage = `Откуда: Контакты\nИмя: ${this.name}\nПочта: ${this.email}\nТелефон: ${this.phone}\nТема: ${this.subject}\nСообщение: ${this.message}`;
@@ -207,6 +211,9 @@ export default {
         chat_id: id_chat,
         text: fullMessage,
       });
+
+      alert("Дякуємо за заявку, ми зателефонуємо вам найближчим часом!");
+      this.$refs.clearForm.reset();
     },
   },
 };
