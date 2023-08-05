@@ -202,7 +202,7 @@ export default {
   },
   methods: {
     tBotMessage: function () {
-      const tokenTelegram = "";
+      const tokenTelegram = "5718289727:AAEO6-79DLBuwWD5zuElglQwGe43j8B3v5g";
       const id_chat = "-575919706";
       const url_api = `https://api.telegram.org/bot${tokenTelegram}/sendMessage`;
       const fullMessage = `Откуда: Контакты\nИмя: ${this.name}\nПочта: ${this.email}\nТелефон: ${this.phone}\nТема: ${this.subject}\nСообщение: ${this.message}`;
