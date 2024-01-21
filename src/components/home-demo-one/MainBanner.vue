@@ -13,10 +13,10 @@
               Контакти
             </router-link>
             <a
-              href="tel:+380672262774"
+              href="tel:+380443440444"
               style="margin-left: 10px"
               class="btn btn-primary"
-              >+38 (067) 226-27-74</a
+              >+38 (044) 344-04-44</a
             >
           </div>
         </div>

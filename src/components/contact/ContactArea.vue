@@ -75,7 +75,7 @@
                   <i class="fas fa-phone-volume"></i>
                 </div>
                 <span>Телефон</span>
-                <a href="tel:+380672262774">+38 (067) 226-27-74</a>
+                <a href="tel:+380443440444">+38 (044) 344-04-44</a>
               </li>
             </ul>
           </div>
