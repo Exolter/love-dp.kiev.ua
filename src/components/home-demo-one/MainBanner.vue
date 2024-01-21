@@ -13,10 +13,10 @@
               Контакти
             </router-link>
             <a
-              href="tel:+380443440444"
+              href="tel:+380443443264"
               style="margin-left: 10px"
               class="btn btn-primary"
-              >+38 (044) 344-04-44</a
+              >+38 (044) 344-32-64</a
             >
           </div>
         </div>

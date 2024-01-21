@@ -123,7 +123,7 @@
               <ul class="social">
                 <li>
                   <a
-                    href="https://goo.gl/maps/eBvR4PdtvYRyFZKAA"
+                    href="https://maps.app.goo.gl/SteCyeM5UYy64CTG6?g_st=it"
                     target="_blank"
                     class="btn btn-primary"
                     >Повна інформація</a
@@ -133,7 +133,7 @@
             </div>
 
             <div class="member-content">
-              <h3>Бровари 1</h3>
+              <h3>Бровари</h3>
               <span>Пансіонат</span>
               <p>
                 Будинок для людей похилого віку в Броварах знаходиться в

@@ -24,7 +24,7 @@
                 <ul class="contact-info-houses">
                   <li>
                     <a
-                      href="https://goo.gl/maps/eBvR4PdtvYRyFZKAA"
+                      href="https://maps.app.goo.gl/SteCyeM5UYy64CTG6?g_st=it"
                       target="_blank"
                       >Бровары, вулиця Пантелеймона Куліша</a
                     >
@@ -75,7 +75,7 @@
                   <i class="fas fa-phone-volume"></i>
                 </div>
                 <span>Телефон</span>
-                <a href="tel:+380443440444">+38 (044) 344-04-44</a>
+                <a href="tel:+380443443264">+38 (044) 344-32-64</a>
               </li>
             </ul>
           </div>
